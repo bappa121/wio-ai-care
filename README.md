@@ -74,6 +74,6 @@ Your app will be live at `https://your-app-name.onrender.com`
 
 ## 📬 Contact
 
-Created by [Mashiqur R. Fahim](https://github.com/yourusername)  
+Created by ZEAUDDIN SIBLO
 Feel free to contribute or open issues!
 
